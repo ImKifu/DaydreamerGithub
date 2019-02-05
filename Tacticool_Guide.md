@@ -10,6 +10,18 @@ VD: tên nhân vật của mình là ImKifu -> [Vn]ImKifu
 
 <img src="https://i.imgur.com/AHMW5HJ.png" >
 
+### Cách đổi tên theo tên nhóm
+
+Bạn bấm vào tên của mình như trong ảnh
+
+<img src="https://i.imgur.com/2I773lx.jpg" >
+
+Sau đó
+
+<img src="https://i.imgur.com/Uh1lhxt.jpg" >
+
+Phí đổi tên là 100 vàng nha ( Rẻ ý mà )
+
 ## Link Discord của nhóm
 Chúng mình dùng Discord để voice chat với nhau khi chơi game và xàm xí
 
@@ -46,6 +58,17 @@ các bạn có thể lên đây rủ nhau chơi game, rủ nhau tạo custom mat
 
 ## Vũ khí
 Khi bạn mới chơi, bạn nên nâng tập trung một loại vũ khí bạn thích chơi nhất. Khi bạn chơi đủ lâu bạn có nhiều tiền, bạn nên trang bị nhiều vũ khí và phụ kiện để có thể thay đổi theo chiến thuật của team
+
+- SMG: đây là súng có tốc độ bắn và tốc độ di chuyển nhanh nhất game. Súng này phù hợp với chiến thuật đẩy nhanh ( Rush B non-stop)
+Bạn cứ chạy lại gần địch và sấy cả băng đạn, đảm bảo đưa đối phương lên bảng đếm số
+
+- SHOTGUNS: đây là chúng có tốc độ di chuyển nhanh thứ hai trong game nhưng sát thương gây ra khi ở gần cục kì cao. Súng này thích hợp với vị trí núp thủ. Súng này kết hợp với lính giảm damage nhận vào sẽ hiệu quả nhất
+
+- ASSAULT RIFLES: Đây là súng gây lượng sát thương ổn định. Súng có tầm bắn tốt và gây lượng damage tương đối. Súng phù hợp với nhiều kiểu chiến đấu và mạnh nếu vào tay người biết chơi ( như tôi chẳng hạn :3 )
+
+- SNIPER RIFLES: Đây là súng có tầm bắn xa nhất và có sát thương trên mỗi viên đạn cao nhất. Bạn có thể đứng từ một vị trí rất xa và kết liễu đối thủ mà không mất máu nào. Súng này rất mạnh nhưng điểm yếu ở sự thiếu cơ động. Mất thời gian để ngắm bắn
+
+- MACHINEGUNS: Đây là khẩu súng sấy mạnh nhất team. Chỉ cần đối phương ở trong tầm bắn và bị sấy, đối phương sẽ chết. Chưa kể súng này có thể sấy nhiều người một lúc. Bạn tưởng tượng một lúc có 3-4 người chết trong một lần bắn. Súng có thể sấy xe rất khỏe. Điểm yếu là ở sự cơ động. Súng này chạy rất chậm và mất thời gian ngắm bắn
 
 ## Các chiến thuật chiến đấu 
 
