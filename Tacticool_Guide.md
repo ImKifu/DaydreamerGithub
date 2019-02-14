@@ -69,6 +69,15 @@ Bạn cứ chạy lại gần địch và sấy cả băng đạn, đảm bảo 
 - SNIPER RIFLES: Đây là súng có tầm bắn xa nhất và có sát thương trên mỗi viên đạn cao nhất. Bạn có thể đứng từ một vị trí rất xa và kết liễu đối thủ mà không mất máu nào. Súng này rất mạnh nhưng điểm yếu ở sự thiếu cơ động. Mất thời gian để ngắm bắn
 
 - MACHINEGUNS: Đây là khẩu súng sấy mạnh nhất team. Chỉ cần đối phương ở trong tầm bắn và bị sấy, đối phương sẽ chết. Chưa kể súng này có thể sấy nhiều người một lúc. Bạn tưởng tượng một lúc có 3-4 người chết trong một lần bắn. Súng có thể sấy xe rất khỏe. Điểm yếu là ở sự cơ động. Súng này chạy rất chậm và mất thời gian ngắm bắn
+-  Secondary ( Vũ khí thứ II mang theo sd trong người): 
+    - Pistols ( Súng lục :v ) : +Ưu điểm: damge cũng được đủ để kết liễu kẻ địch lúc yếu máu, nạp đạn nhanh, thích hợp với sniper, tốc độ duy chuyển nhanh nhất nhanh hơn cả smg 10pnt.
+                                       +Nhược điểm: damge cũg tạm thôi k dùng để solo trực tiếp với các loại primary ( Súng chính mang theo trong người), tầm bắn khá gần.
+    - Melee (Dao, kiếm :v) : 
+        - Ưu điểm: damge rất bự, không cần nạp đạn :v, kết liễu được kẻ địch ở gần nhanh trong lúc đang lúng túng nạp đạn…., chạy nhanh III sau smg và pistols, đánh được trong smoke.
+        - Nhược: tầm sử dụng rất gần, sử dụng hơn tù cho nhưng ai hay mất bình tĩnh nhưng pha ở gần =)).
+- Special ( Vũ khí đặc biệt mang theo trong người như: lựu đạn, bom khói, c4,…):
+
+
 
 ## Các chiến thuật chiến đấu 
 
