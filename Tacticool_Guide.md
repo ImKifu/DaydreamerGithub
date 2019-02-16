@@ -2,6 +2,14 @@
 
     Xin chào tất cả các bạn đã tham gia nhóm Ae Việt Nam Tacticool của chúng mình. Dưới đây là các thông tin cũng như hướng dẫn cơ bản của nhóm để các bạn mới tham gia không bỏ lỡ điều gì nha
 
+# Mục lục
+[1. Tên đội của nhóm ](#name)<br>
+[2. Link Discord ](#LinkDiscord)<br>
+
+
+
+
+<a name="name"></a>
 ## Tên đội của nhóm
 
 Chúng mình thống nhất với nhau là lấy kí hiệu [Vn] đặt trước đầu tên nhân vật làm tên của nhóm
@@ -22,6 +30,7 @@ Sau đó
 
 Phí đổi tên là 100 vàng nha ( Rẻ ý mà )
 
+<a namn="LinkDiscord"></a>
 ## Link Discord của nhóm
 Chúng mình dùng Discord để voice chat với nhau khi chơi game và xàm xí
 
