@@ -30,7 +30,7 @@ Sau đó
 
 Phí đổi tên là 100 vàng nha ( Rẻ ý mà )
 
-<a namn="LinkDiscord"></a>
+<a name="LinkDiscord"></a>
 ## Link Discord của nhóm
 Chúng mình dùng Discord để voice chat với nhau khi chơi game và xàm xí
 
