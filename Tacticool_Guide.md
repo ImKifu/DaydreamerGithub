@@ -5,9 +5,10 @@
 # Mục lục
 [1. Tên đội của nhóm ](#name)<br>
 [2. Link Discord ](#LinkDiscord)<br>
-
-
-
+[3. Link Messenger ](#messenger)<br>
+[4. Custom match ](#custom)<br>
+[5. Weapon ](#weapon)<br>
+[6. Tactic ](#tactic)<br>
 
 <a name="name"></a>
 ## Tên đội của nhóm
@@ -37,14 +38,14 @@ Chúng mình dùng Discord để voice chat với nhau khi chơi game và xàm x
 https://discord.gg/YeqmeKV
 
 dành cho bạn nào chưa biết thì Discord là app đàm thoại cho cả PC và Mobile. Mình có thể vừa chơi game và nói chuyện trực tiếp với nhau. Mình có thể bàn chiến thuật và tấn công cùng lúc, đẩy lẻ, ...
-
+<a name="messenger"></a>
 ## Link messenger của nhóm
 Chúng mình dùng messenger để tiện cho những bạn chưa lập tài khoản Discord. 
 
 https://m.me/join/AbaaGRYUeJBwjjzb
 
 các bạn có thể lên đây rủ nhau chơi game, rủ nhau tạo custom match và sau đây mình sẽ hướng dẫn các bạn chơi custom match
-
+<a name="custom"></a>
 ## Tạo và tham gia custom match
 - Bước 1: Chúng ta vào phần cài đặt ở góc trái phía trên màn hình, chọn Setting
 
@@ -64,8 +65,9 @@ các bạn có thể lên đây rủ nhau chơi game, rủ nhau tạo custom mat
 - Bước 4: Nhập số ID mà bạn muốn tham gia. Ở nhóm bọn mình chúng mình đặt ID là vn.
 
 <img src="https://i.imgur.com/1VbiWKU.jpg" >
-
+<a name="weapon"></a>
 ## Vũ khí
+
 Khi bạn mới chơi, bạn nên nâng tập trung một loại vũ khí bạn thích chơi nhất. Khi bạn chơi đủ lâu bạn có nhiều tiền, bạn nên trang bị nhiều vũ khí và phụ kiện để có thể thay đổi theo chiến thuật của team
 
 - SMG: đây là súng có tốc độ bắn và tốc độ di chuyển nhanh nhất game. Súng này phù hợp với chiến thuật đẩy nhanh ( Rush B non-stop)
@@ -87,7 +89,7 @@ Bạn cứ chạy lại gần địch và sấy cả băng đạn, đảm bảo 
 - Special ( Vũ khí đặc biệt mang theo trong người như: lựu đạn, bom khói, c4,…):
 
 
-
+<a name="tactic"></a>
 ## Các chiến thuật chiến đấu 
 
 Bọn mình sẽ update phần này sau
