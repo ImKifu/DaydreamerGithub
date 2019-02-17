@@ -1,6 +1,6 @@
 # Ae Việt Nam Tacticool
 
-    Xin chào tất cả các bạn đã tham gia nhóm Ae Việt Nam Tacticool của chúng mình. Dưới đây là các thông tin cũng như hướng dẫn cơ bản của nhóm để các bạn mới tham gia không bỏ lỡ điều gì nha
+`Xin chào tất cả các bạn đã tham gia nhóm Ae Việt Nam Tacticool của chúng mình. Dưới đây là các thông tin cũng như hướng dẫn cơ bản của nhóm để các bạn mới tham gia không bỏ lỡ điều gì nha `
 
 # Mục lục
 [1. Tên đội của nhóm ](#name)<br>
@@ -92,4 +92,25 @@ Bạn cứ chạy lại gần địch và sấy cả băng đạn, đảm bảo 
 <a name="tactic"></a>
 ## Các chiến thuật chiến đấu 
 
-Bọn mình sẽ update phần này sau
+### *Kĩ năng cá nhân*
+- `Người cầm túi tiền là người biết vị trí của đồng đội để chọn chỗ đứng bắn cover`
+- `Khi lấy được túi tiền, nhanh chóng chạy về nhà để thủ`
+
+- `Smoke có thể phá bom, mìn`
+- `Đọc vị trí đồng đội bằng thẻ xanh, khi nào thấy đông đủ người lên thì hãng công`
+- `Đọc taught, command của đồng đội tốt, để có thể tấn công - phòng thủ phù hợp`
+
+### ***Đội hình tấn công***
+
+- Xe là một công cụ tốt để quấy phá đội hình địch. Theo cá nhân tôi, tôi sẽ giữ xe sau 1' đầu của trận đấu. 60s đầu tiên là lúc dàn đội hình, đặt bom để phá xe của đối phương. Nếu cướp túi thành công, lấy xe về để thủ. Nếu mất túi tiền, mình sẽ lập đội hình tấn công.
+- Đội hình tấn công sẽ chia làm hai nhóm. Nhóm ba người sẽ tiếp cận gần nhất có thể vào đội hình team địch, đợi hai người đi xe mở đường vào quấy phá team bạn, nhóm ba người sẽ lập tức xông lên
+
+- Nếu team bạn có nhiều MachineGun và Sniper, thì mình có thể đổi sang chiến thuật Dao, Smoke và Gas. Sau đây là một chiến thuật mà hôm qua tôi tập cùng các ae. Khi mình bị mất túi tiền mình sẽ dùng xe lao lên đường giữa. Rồi ép team bạn về bên trái. Team sẽ có ba người chơi smoke, độc (gas ) dao lao lên quấy rối đội hình đối phương, hai người còn lại sẽ qua cánh trái mà team mình ép móc lốp. 
+Để kết hợp vs smoke tốt nhất là Shotgun. Vì Shotgun cần tiếp cận mới phát huy sức mạnh, mà Smoke đã giúp điều đó. Nếu ai ko có Shotgun thì AR hay SMG cũng khá ổn. 
+
+
+
+
+### Map Area 39
+
+Riêng map area 39 có rất nhiều kiểu chơi. Riêng cái cầu bên có mấy thùng hàng, cứ dùng cái ko trọng lực hoặc nade làm rơi thùng ra, thế là ko ai lên được cầu bên ý. Rồi bên kia có súng máy, hoặc cắt cử người ra nấp cover cho bọn trên cầu. Còn bọn trên cầu thì cứ bắn xuống. Game này góc nhìn thứ ba nên trên cao rất là lợi. Vì mình còn ko nhìn thấy Sniper mà nó đã thấy mình rồi. Map ý một khi đã mất cầu là ít chỗ công lên. Mà tôi thấy mình nên để dành xe cho việc công lên lấy túi tiền, giả sử như nó lấy đc túi tiền trước, hay nó lấy xe công đi trước, mình còn xe sau rất là lợi. Mình có thể tập hợp người nhóm ba người đi bộ, đợi họ vào vị trí rồi nhóm hai người đi xe công lên. Các bạn đọc vị trí đồng đội bằng cách nhìn thẻ xanh chạy ở khắp góc màn hình. Khi nào thấy đồng đội lên hoặc ra hiệu công, thì tất cả đồng loạt công lên.
