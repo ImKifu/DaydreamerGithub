@@ -114,3 +114,7 @@ Bạn cứ chạy lại gần địch và sấy cả băng đạn, đảm bảo 
 ### Map Area 39
 
 Riêng map area 39 có rất nhiều kiểu chơi. Riêng cái cầu bên có mấy thùng hàng, cứ dùng cái ko trọng lực hoặc nade làm rơi thùng ra, thế là ko ai lên được cầu bên ý. Rồi bên kia có súng máy, hoặc cắt cử người ra nấp cover cho bọn trên cầu. Còn bọn trên cầu thì cứ bắn xuống. Game này góc nhìn thứ ba nên trên cao rất là lợi. Vì mình còn ko nhìn thấy Sniper mà nó đã thấy mình rồi. Map ý một khi đã mất cầu là ít chỗ công lên. Mà tôi thấy mình nên để dành xe cho việc công lên lấy túi tiền, giả sử như nó lấy đc túi tiền trước, hay nó lấy xe công đi trước, mình còn xe sau rất là lợi. Mình có thể tập hợp người nhóm ba người đi bộ, đợi họ vào vị trí rồi nhóm hai người đi xe công lên. Các bạn đọc vị trí đồng đội bằng cách nhìn thẻ xanh chạy ở khắp góc màn hình. Khi nào thấy đồng đội lên hoặc ra hiệu công, thì tất cả đồng loạt công lên.
+
+
+------------------------------------------------------------
+***Contributor : [Vn]ImKifu & [Vn]DeAdLy***
